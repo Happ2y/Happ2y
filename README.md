@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Happ2y
-- 👀 I’m interested in software development especially web development.
-- 🌱 I’m currently learning app development and ethical hacking.
+- 👋 Hi, I’m Swaraj Kumar Chaudhary
+- 👀 I’m interested in software development especially android development.
+- 🌱 I’m currently learning android development and ethical hacking.
 - 💞️ I’m looking to collaborate on web as well as app projects.
 - 📫 How to reach me : email me at - swarajkumarchaudhary1729@gmail.com
 
