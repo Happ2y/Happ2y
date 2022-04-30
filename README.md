@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swaraj Kumar Chaudhary
-- 👀 I’m interested in cloud computing and software engineering.
-- 🌱 I’m currently learning android development and ethical hacking.
-- 💞️ I’m looking to collaborate on cloud and software development projects.
+- 👀 I’m interested in machine learning and software engineering.
+- 🌱 I’m currently exploring machine learning & nodejs.
+- 💞️ I’m looking to collaborate related projects.
 - 📫 How to reach me : email me at - swarajkumarchaudhary1729@gmail.com
 
 <!---
