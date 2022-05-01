@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swaraj Kumar Chaudhary
 - 👀 I’m interested in machine learning and software engineering.
 - 🌱 I’m currently exploring machine learning & nodejs.
-- 💞️ I’m looking to collaborate related projects.
+- 💞️ I’m looking to collaborate on related projects.
 - 📫 How to reach me : email me at - swarajkumarchaudhary1729@gmail.com
 
 <!---
